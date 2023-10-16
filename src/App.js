@@ -1,9 +1,13 @@
+import Simpsons from "./components/Simpsons/Simpsons";
+import Personas from "./components/Personas/Personas";
 
 function App() {
   return (
-    <div>
-
-    </div>
+      <div>
+          <Simpsons/>
+          <hr></hr>
+          <Personas/>
+      </div>
   );
 }
 

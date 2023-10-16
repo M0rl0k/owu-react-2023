@@ -1,0 +1,14 @@
+.family-item {
+    width: 200px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+}
+
+.family-item img {
+    width: 200px;
+}
