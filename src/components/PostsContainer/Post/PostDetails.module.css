@@ -1,0 +1,3 @@
+.PostDetails {
+    width: clamp(300px, 25%, 50%);
+}
