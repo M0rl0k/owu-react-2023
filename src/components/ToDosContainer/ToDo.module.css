@@ -1,0 +1,16 @@
+.ToDo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 350px;
+
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.ToDo p {
+    padding: 0;
+    margin: 5px;
+}

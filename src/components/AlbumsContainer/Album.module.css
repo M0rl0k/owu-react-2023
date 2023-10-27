@@ -1,0 +1,16 @@
+.Album {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 250px;
+
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.Album p {
+    padding: 0;
+    margin: 5px;
+}
