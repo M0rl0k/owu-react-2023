@@ -1,0 +1,12 @@
+.Comment {
+    width: 50%;
+
+    border: 2px solid gray;
+    border-radius: 15px;
+
+    margin: 5px 0;
+}
+
+.Comment p {
+    margin: 5px 0;
+}

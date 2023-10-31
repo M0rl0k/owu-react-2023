@@ -1,0 +1,7 @@
+.Header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: silver;
+    font-size: 24px;
+}
